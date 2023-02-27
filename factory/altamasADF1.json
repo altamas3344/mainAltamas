@@ -1,0 +1,9 @@
+{
+	"name": "altamasADF1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ef9cd06d-3366-47aa-904b-4c7cd098e964",
+		"tenantId": "e3718b1f-5333-4962-b48b-9372ec895439"
+	}
+}
